@@ -1,2 +1,7 @@
 # unit-converter
-(demo link: https://metric-imperial-unit-conversion.netlify.app)
+
+- Length (Meter/Feet)
+- Volume (Liters/Gallons)
+- Mass (Kilograms/Pounds)
+
+:link: visit demo from [here](https://metric-imperial-unit-conversion.netlify.app)
